@@ -1,0 +1,38 @@
+{
+    "Clases": "BAILES EN ARGENTINA",
+    "Tipos":"DISTINTOS TIPOS",
+    "active": true,
+    "Bailes": [
+  
+           {
+         
+          "nombre" : "TANGO",
+          "descripcion": "El baile de tango es una danza de pareja enlazada estrechamente surgida a partir de la fusión de danzas y ritmos afro-rioplatenses, gauchos y europeos. Es un baile característico de la región del Río de la Plata, principalmente de Buenos Aires, Argentina y Montevideo, Uruguay, y que posteriormente se extendió por todo el mundo. Se caracteriza por el abrazo estrecho de la pareja, la caminata tanguera, el corte, la quebrada, y la improvisación.",
+          "imagenes": "/imagenes/tango.jpg"
+           },
+
+           {
+            "nombre": "AXE",
+            "descripcion": "El axé es un movimiento musical muy popular, surgido en el estado de Bahía (Brasil), que se inició en la década de 1980 y que alcanzó la madurez en la década siguiente. Axé es una palabra en idioma yoruba cuyo significado es ‘energía positiva’ y ‘fuerza vital’. Esta música se expandió rápidamente por todo Brasil y por gran parte de América, principalmente en Argentina, Bolivia, Chile, Ecuador, Paraguay, Perú y Uruguay.",
+            "imagenes":"/imagenes/axe.jpg"
+                          
+          },
+
+          {
+            "nombre": "REGGAETTON",
+            "descripcion":  "El reguetón o reggaetón es un género musical bailable3​ que se deriva del reggae y del dancehall, así como elementos principalmente del hip hop, y la música hispana.Se influenció del reggae en español de Panamá y se desarrolló en Puerto Rico en 1990; surgió a raíz de la popularidad del reggae jamaicano, junto con el hip hop estadounidense durante los inicios de esa época.",
+            "imagenes": "/imagenes/reggaeton.jpg"
+            
+          },
+
+          {
+            "nombre":  "CLASICO",
+            "descripcion": "El ballet clásico o danza clásica es una forma de danza cuyos movimientos se basan en el control total y absoluto del cuerpo, se recomienda empezar desde temprana edad debido a su grado de dificultad. Esta requiere no solo esfuerzo, actitud, compromiso,sino que también, debe ser considerada un estilo de vida. A diferencia de otras danzas, en el ballet cada paso está codificado.",
+            "imagenes": "/imagenes/clasico.jpg"
+          }
+      
+        
+    
+  ]
+}
+  

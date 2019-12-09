@@ -1,0 +1,69 @@
+body {
+    
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(/imagenes/bailefondo.jpg);
+    background-size: 100%;
+    
+}
+@font-face {
+    font-family: TeodeBasic-Regular;
+    src: url(/Fuentes/TeodeBasic-Regular.otf);
+}
+h1, h2 {
+  
+
+    font-family:TeodeBasic-Regular;
+    -webkit-text-stroke: 2.5px rgb(60, 26, 92);
+    
+        color: 060D5D;
+   
+    }
+    
+    
+   
+h1 {
+    font-family: TeodeBasic-Regular;
+    
+    font-size: 8rem;
+    text-align: center;
+}
+@font-face {
+    font-family:cabaret_voltaire;
+    src: url(/Fuentes/cabaret_voltaire.ttf);
+}
+header p {
+    font-family: cabaret_voltaire;
+   -webkit-text-stroke: 1.5px rgb(51, 26, 92);
+    opacity: 0.9;
+    font-style: italic;
+    color: 4751C2;
+    font-size: 6rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+section article {
+    width: 45%;
+    float: left;
+}
+
+
+h2 {
+    font-size: 2.5rem;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+article{
+    background-color:063D5D;
+    color: white;
+    opacity: 0.8;
+    padding: 30px 0;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+}
+img{
+    display: flex;
+    margin: auto!important;
+}
